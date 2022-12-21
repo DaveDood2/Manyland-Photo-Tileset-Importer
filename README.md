@@ -44,7 +44,7 @@ Which should output something like:
 This will create ROOMOutput/ROOMwaterWraith.png.js. Open it up an copy the javascript code inside, then open up Manyland (note that the Steam version of Manyland doesn't play nice with javascript, so you'll have to use the browser version.
 
 Create a new changer, paste the javascript code into it, and hit the CTRL+S button to run the changer once. The changer's sprite will change to a preview of whatever you imported from somewhere in the middle of the original image (note that if the original image was transparent, you might not notice any change, that's fine). For the water wraith example, you'd see:
-![Whiteboard changer preview](demo/ChangerDemo.png "A bit of black marker stickin' out from the example image.")
+![Whiteboard changer preview](editedPhotos/waterWraith.png "A bit of black marker stickin' out from the example image.")
 
 Click the green check mark to save the changer. Now, start creating a 9 cell dynamic but DON'T hit the green check mark yet. Instead, click on the newly-created changer on the menu on the right-side of the screen (this would be "photo cha..." in the following screenshot). The dynamic cells should change to whatever's in the image you're trying to import:
 ![Whiteboard changer preview](demo/ChangerDemo2.png "The water wraith's face.")
