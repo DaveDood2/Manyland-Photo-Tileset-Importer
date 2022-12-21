@@ -48,13 +48,15 @@ Create a new changer, paste the javascript code into it, and hit the CTRL+S butt
 ![Whiteboard changer preview](demo/ChangerDemo.PNG "A bit of black marker stickin' out from the example image.")
 
 Click the green check mark to save the changer. Now, start creating a 9 cell dynamic but DON'T hit the green check mark yet. Instead, click on the newly-created changer on the menu on the right-side of the screen (this would be "photo cha..." in the following screenshot). The dynamic cells should change to whatever's in the image you're trying to import:
-![Whiteboard changer preview](demo/ChangerDemo2.png "The water wraith's face.")
+
+![Whiteboard changer preview](demo/ChangerDemo2.PNG "The water wraith's face.")
 
 
 By default, the resulting dynamic will be whatever's in the top-left 89x89 square of the imported image. To get the other 3 quadrants of the water wraith, you can add [x,y] to the dynamic's name. For instance, if I wanted to get the top-right of the water wraith, I'd name it "[1,0] example", then click on the changer like before.
 
 Here's how the resulting 4 water wraith dynamics look like in-game. Note that I already added code to the dynamics to positions their cells to fit together nicely.
-![The Result](demo/ChangerDemo3.png "Voila!")
+
+![The Result](demo/ChangerDemo3.PNG "Voila!")
 
 ## Contributing
 
